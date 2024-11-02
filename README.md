@@ -32,23 +32,47 @@ Ensure you have Node.js and npm installed. You can download them from [nodejs.or
 
 3. **Install dependencies**:
 
-`npm install`
+```bash
+npm install
+```
 
 ### Running the Project
 
 To start the development server, use:
 
-`npm start`
+```bash
+npm start
+```
+
 The app will run on http://localhost:3000.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-`npm start`: Runs the app in development mode.
-`npm run build` : Builds the app for production.
-`npm test` : Launches the test runner.
-`npm run eject` : Ejects the app from the default configuration, allowing custom setups.
+```bash
+npm start
+```
+
+Runs the app in development mode.
+
+```bash
+npm run build
+```
+
+Builds the app for production.
+
+```bash
+npm test
+```
+
+Launches the test runner.
+
+```bash
+npm run eject
+```
+
+Ejects the app from the default configuration, allowing custom setups.
 
 ## Project Structure
 
@@ -67,4 +91,5 @@ In the project directory, you can run:
 ## Author
 
 Olha Chernysh
+
 # The-React-Redux-classic-Bank-app
